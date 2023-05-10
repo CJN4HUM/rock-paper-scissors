@@ -1,0 +1,38 @@
+.choice{
+  line-height: 30px;
+  width: 150px;
+}
+
+body{
+  background-color: lightblue;
+}
+
+#game-container{
+  font-family: 'Poppins', cursive;
+  margin-top: 200px;
+  padding: 1rem;
+  background-color: lightblue;
+  text-align: center;
+}
+
+#game-container button{
+  font-family: 'Poppins', cursive;
+  border-radius: 100%;
+  background-color: lightgoldenrodyellow;
+}
+
+#game-container h5{
+  color: lightseagreen;
+}
+
+#player{
+  color: blue;
+}
+
+#computer{
+  color: red;
+}
+
+.game #result{
+  color: aqua;
+}
